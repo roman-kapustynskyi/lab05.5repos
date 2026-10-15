@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\S\\PR05.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0882D5E-EED0-4EA8-D6C2-2CFDEE94CE14}|UnitTest05.5\\UnitTest05.5.vcxproj|D:\\S\\PR05.5\\UnitTest05.5\\UnitTest05.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0882D5E-EED0-4EA8-D6C2-2CFDEE94CE14}|UnitTest05.5\\UnitTest05.5.vcxproj|solutionrelative:UnitTest05.5\\UnitTest05.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F520EAF-8D07-4FB7-88AA-BA2E776FFF7C}|PR05.5\\PR05.5.vcxproj|D:\\S\\PR05.5\\PR05.5\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F520EAF-8D07-4FB7-88AA-BA2E776FFF7C}|PR05.5\\PR05.5.vcxproj|solutionrelative:PR05.5\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest05.5.cpp",
+              "DocumentMoniker": "D:\\S\\PR05.5\\UnitTest05.5\\UnitTest05.5.cpp",
+              "RelativeDocumentMoniker": "UnitTest05.5\\UnitTest05.5.cpp",
+              "ToolTip": "D:\\S\\PR05.5\\UnitTest05.5\\UnitTest05.5.cpp",
+              "RelativeToolTip": "UnitTest05.5\\UnitTest05.5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-15T18:21:07.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "D:\\S\\PR05.5\\PR05.5\\FileName.cpp",
+              "RelativeDocumentMoniker": "PR05.5\\FileName.cpp",
+              "ToolTip": "D:\\S\\PR05.5\\PR05.5\\FileName.cpp",
+              "RelativeToolTip": "PR05.5\\FileName.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-14T18:21:14.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
